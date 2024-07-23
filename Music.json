@@ -101,6 +101,12 @@
             "title": "Dans un verre",
             "artist": "Werenoi • SDM",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
+        },
+        {
+            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265310108263387136/spotifydown.com_-_Putana_1.mp3?ex=66a10b5e&is=669fb9de&hm=0e543610e3ba746722e32fe0353c53aa3d1798a1dd1cf86eb0b5e886d5db8e67&",
+            "title": "Putana",
+            "artist": "Nihno",
+            "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265309975241293824/ab67616d00001e0249f298c896b4e4237e2a614e.png?ex=66a10b3e&is=669fb9be&hm=35848765d650e23118e2b1e435f9c3e93841975f00dbb7d22bda5974f2443197&=&format=webp&quality=lossless"
         }
     ]
 }
