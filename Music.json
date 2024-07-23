@@ -146,9 +146,21 @@
         },
         {
             "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265386162944479272/SPOTIFY-DOWNLOADER.COM_Animal.mp3?ex=66a15232&is=66a000b2&hm=ce4d19b9b0b9f5ac3c864602438ecf4e4e6633beb247c0b16a8ff70650013ab2&",
-            "title": "All eyes on me",
+            "title": "Animal",
             "artist": "Werenoi",
             "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265313931669536929/ab67616d00001e02cb7db70068e16007c996e736.png?ex=66a10eed&is=669fbd6d&hm=ba3403afcbf03348b66fc2255729348e2cff03f4f3fca145d76239b22df84ccb&=&format=webp&quality=lossless"
-        }
+        },
+        {
+            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265386172679716896/SPOTIFY-DOWNLOADER.COM_Baguette_magique.mp3?ex=66a15235&is=66a000b5&hm=b11f8114848c3094f6c3f0431c66c476345f1357eb4664e6515eebcafdbec6f4&",
+            "title": "Baguette Magique",
+            "artist": "Tsune",
+            "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265387329682669598/5YiglkbhScAvFvqY2hjS9_M6uW7U8ED_LSAQLp4p08PDnbWklqBaMYVZE2HfRG8dzAT5l7iWHU0c5pAuw544-h544-l90-rj.png?ex=66a15349&is=66a001c9&hm=74e56ec5b3ed75a66000a1e7a34550c72f148cdbe4afbd43d1e5f112813f3645&=&format=webp&quality=lossless&width=350&height=350"
+        },
+        {
+            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265386183916257392/SPOTIFY-DOWNLOADER.COM_Balmain.mp3?ex=66a15237&is=66a000b7&hm=1c676afaac65ae41fd681d9939e4261a2ac261d7c842aea901d901fa3040b018&",
+            "title": "Balmain",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265385117799677979/1900x1900-000000-80-0-0.png?ex=66a15139&is=669fffb9&hm=e2f1d13c84d89c153c1a327b33c1656cc4b1a78b8be628c80c4ad01b986c71c4&=&format=webp&quality=lossless&width=559&height=559"
+        },
     ]
 }
