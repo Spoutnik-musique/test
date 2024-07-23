@@ -200,9 +200,9 @@
         },        
         {
             "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265386332147027978/SPOTIFY-DOWNLOADER.COM_Telepherique.mp3?ex=66a1525b&is=66a000db&hm=01d0a44011f5f8575857ed857b8f2fc4c4a5061829364addb75760db1886e39c&",
-            "title": "Telepherique",
+            "title": "Lanoratoire",
             "artist": "Werenoi",
-            "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265313931669536929/ab67616d00001e02cb7db70068e16007c996e736.png?ex=66a10eed&is=669fbd6d&hm=ba3403afcbf03348b66fc2255729348e2cff03f4f3fca145d76239b22df84ccb&=&format=webp&quality=lossless"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg"
         },        
         {
             "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265386374635323452/SPOTIFY-DOWNLOADER.COM_Rolls_Royce.mp3?ex=66a15265&is=66a000e5&hm=0672d38b1850e467339358aeee41874c995300c4237727fe64e9acd86ec784ec&",
@@ -237,6 +237,12 @@
         {
             "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265386455673471026/SPOTIFY-DOWNLOADER.COM_Picasso.mp3?ex=66a15278&is=66a000f8&hm=e3ce9878c1ebee64fcfb6db91b9ddffc2f8b7570b094939230aefef388381270&",
             "title": "Picasso",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265313931669536929/ab67616d00001e02cb7db70068e16007c996e736.png?ex=66a10eed&is=669fbd6d&hm=ba3403afcbf03348b66fc2255729348e2cff03f4f3fca145d76239b22df84ccb&=&format=webp&quality=lossless"
+        }, 
+        {
+            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265436611563360366/spotifydown.com_-_Telepherique.mp3?ex=66a1812e&is=66a02fae&hm=5f622a5b8725d7bbc6f4fd935a309c6a4f3015c8ee492cc4ff6868e29864d5c1&",
+            "title": "Telepherique",
             "artist": "Werenoi",
             "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265313931669536929/ab67616d00001e02cb7db70068e16007c996e736.png?ex=66a10eed&is=669fbd6d&hm=ba3403afcbf03348b66fc2255729348e2cff03f4f3fca145d76239b22df84ccb&=&format=webp&quality=lossless"
         }
