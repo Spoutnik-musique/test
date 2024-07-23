@@ -83,6 +83,18 @@
             "title": "Mignon tout plein",
             "artist": "PLK",
             "thumbnailUrl": "Cover/Mignon tout plein.jfif"
-        } 
+        } ,
+        {
+            "musicUrl": "Musique/Scarface.mp3",
+            "title": "Scarface",
+            "artist": "Werenoi",
+            "thumbnailUrl": "Cover/Scarface.jfif"
+        } ,
+        {
+            "musicUrl": "Musique/Mélanine.mp3",
+            "title": "Mélanine",
+            "artist": "Heuss l'enfoiré • Werenoi",
+            "thumbnailUrl": "Cover/Mélanine.jfif"
+        }
     ]
 }
