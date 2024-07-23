@@ -107,6 +107,18 @@
             "title": "Putana",
             "artist": "Nihno",
             "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265309975241293824/ab67616d00001e0249f298c896b4e4237e2a614e.png?ex=66a10b3e&is=669fb9be&hm=35848765d650e23118e2b1e435f9c3e93841975f00dbb7d22bda5974f2443197&=&format=webp&quality=lossless"
+        },
+        {
+            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265313845816332319/spotifydown.com_-_Escorte.mp3?ex=66a10ed9&is=669fbd59&hm=183b121b551f57daa1a5b27ae1f83f8f7e7d001981f4ab8497d431a9ccd0baaa&",
+            "title": "Escorte",
+            "artist": "Werenoi • PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg"
+        },
+        {
+            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265314012208435341/spotifydown.com_-_Maudit.mp3?ex=66a10f00&is=669fbd80&hm=ae26d4d71e0e2d48a2950865778b0211fb7abdba749a5e676da95b2ade7ae44f&",
+            "title": "Maudit",
+            "artist": "Werenoi • Hamza",
+            "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265313931669536929/ab67616d00001e02cb7db70068e16007c996e736.png?ex=66a10eed&is=669fbd6d&hm=ba3403afcbf03348b66fc2255729348e2cff03f4f3fca145d76239b22df84ccb&=&format=webp&quality=lossless"
         }
     ]
 }
