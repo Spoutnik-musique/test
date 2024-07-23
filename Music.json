@@ -1,0 +1,88 @@
+{
+    "songs": [
+        {
+            "musicUrl": "Musique/Mwaka Moon.mp3",
+            "title": "Mwaka Moon",
+            "artist": "Kalash • Damso",
+            "thumbnailUrl": "Cover/Mwaka Moon.jpg"
+        },
+        {
+            "musicUrl": "Musique/Feu de bois.mp3",
+            "title": "Feu de bois",
+            "artist": "Damso",
+            "thumbnailUrl": "Cover/Feu de Bois.jpg"
+        },
+        {
+            "musicUrl": "Musique/Pyramide (feat. Damso).mp3",
+            "title": "Pyramide",
+            "artist": "Werenoi • Damso",
+            "thumbnailUrl": "Cover/Pyramides.jpg"
+        },
+        {
+            "musicUrl": "Musique/Vrai ⧸ Faux.mp3",
+            "title": "Vrai / Faux",
+            "artist": "Ziak",
+            "thumbnailUrl": "Cover/Akimbo.jpg"
+        },
+        {
+            "musicUrl": "Musique/Génération Miracle.mp3",
+            "title": "Génération Miracle",
+            "artist": "Kerchak • Favé",
+            "thumbnailUrl": "Cover/Génération Miracle.jpg"
+        },
+        {
+            "musicUrl": "Musique/Même pas un grincement.mp3",
+            "title": "Même pas un grincement",
+            "artist": "Ziak",
+            "thumbnailUrl": "Cover/Chrome.jpg"
+        },
+        {
+            "musicUrl": "Musique/1 2 3 Soleil.mp3",
+            "title": "1 2 3 Soleil",
+            "artist": "Ziak",
+            "thumbnailUrl": "Cover/1 2 3 Soleil.jpg"
+        },
+        {
+            "musicUrl": "Musique/16.02.2024.mp3",
+            "title": "16.02.2024",
+            "artist": "Werenoi",
+            "thumbnailUrl": "Cover/16.02.2024.jfif"
+        },
+        {
+            "musicUrl": "Musique/Chemin d'or.mp3",
+            "title": "Chemin d'or",
+            "artist": "Werenoi",
+            "thumbnailUrl": "Cover/Chemin d'or.jpg"
+        } ,
+        {
+            "musicUrl": "Musique/CRF - Nouvelle École.mp3",
+            "title": "CRF",
+            "artist": "Yorssy",
+            "thumbnailUrl": "Cover/CRF.jfif"
+        },
+        {
+            "musicUrl": "Musique/East London (Nouvelle École).mp3",
+            "title": "East London",
+            "artist": "Lpee",
+            "thumbnailUrl": "Cover/East London.jfif"
+        },
+        {
+            "musicUrl": "Musique/Émotif (Booska 1H).mp3",
+            "title": "Émotif (Booska 1H)",
+            "artist": "PLK",
+            "thumbnailUrl": "Cover/Emotif.jfif"
+        } ,
+        {
+            "musicUrl": "Musique/Éthanol.mp3",
+            "title": "Éthanol",
+            "artist": "Tsune",
+            "thumbnailUrl": "Cover/Ethanol.jfif"
+        },
+        {
+            "musicUrl": "Musique/Mignon tout plein.mp3",
+            "title": "Mignon tout plein",
+            "artist": "PLK",
+            "thumbnailUrl": "Cover/Mignon tout plein.jfif"
+        } 
+    ]
+}
