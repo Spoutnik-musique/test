@@ -43,11 +43,11 @@
             "thumbnailUrl": "Cover/1 2 3 Soleil.jpg"
         },
         {
-            "musicUrl": "Musique/16.02.2024.mp3",
-            "title": "16.02.2024",
-            "artist": "Werenoi",
-            "thumbnailUrl": "Cover/16.02.2024.jfif"
-        },
+            "musicUrl": "Musique/Mélanine.mp3",
+            "title": "Mélanine",
+            "artist": "Heuss l'enfoiré • Werenoi",
+            "thumbnailUrl": "Cover/Mélanine.jfif"
+        }
         {
             "musicUrl": "Musique/Chemin d'or.mp3",
             "title": "Chemin d'or",
@@ -91,10 +91,10 @@
             "thumbnailUrl": "Cover/Scarface.jfif"
         } ,
         {
-            "musicUrl": "Musique/Mélanine.mp3",
-            "title": "Mélanine",
-            "artist": "Heuss l'enfoiré • Werenoi",
-            "thumbnailUrl": "Cover/Mélanine.jfif"
-        }
+            "musicUrl": "Musique/16.02.2024.mp3",
+            "title": "16.02.2024",
+            "artist": "Werenoi",
+            "thumbnailUrl": "Cover/16.02.2024.jfif"
+        },
     ]
 }
