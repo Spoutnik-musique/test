@@ -95,6 +95,12 @@
             "title": "16.02.2024",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/16.02.2024.jfif"
+        },
+{
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mwaka%20Moon.mp3",
+            "title": "Mwaka Moon",
+            "artist": "Kalash • Damso",
+            "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1264359605270609961/Mwaka_Moon.jpg?ex=66a03924&is=669ee7a4&hm=d3ff16b87b16bfa4bd1cb1b5355e06cdbd8037c4f63643506738a0f37084c87c&=&format=webp"
         }
     ]
 }
