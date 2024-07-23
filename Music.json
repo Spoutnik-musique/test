@@ -1,100 +1,100 @@
 {
     "songs": [
         {
-            "musicUrl": "Musique/Mwaka Moon.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mwaka%20Moon.mp3",
             "title": "Mwaka Moon",
             "artist": "Kalash • Damso",
-            "thumbnailUrl": "Cover/Mwaka Moon.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Mwaka%20Moon.jpg"
         },
         {
-            "musicUrl": "Musique/Feu de bois.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Feu%20de%20bois.mp3",
             "title": "Feu de bois",
             "artist": "Damso",
-            "thumbnailUrl": "Cover/Feu de Bois.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Feu%20de%20Bois.jpg"
         },
         {
-            "musicUrl": "Musique/Pyramide (feat. Damso).mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Pyramide%20(feat.%20Damso).mp3",
             "title": "Pyramide",
             "artist": "Werenoi • Damso",
-            "thumbnailUrl": "Cover/Pyramides.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
         },
         {
-            "musicUrl": "Musique/Vrai ⧸ Faux.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Vrai%20%E2%A9%9C%20Faux.mp3",
             "title": "Vrai / Faux",
             "artist": "Ziak",
-            "thumbnailUrl": "Cover/Akimbo.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Akimbo.jpg"
         },
         {
-            "musicUrl": "Musique/Génération Miracle.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/G%C3%A9n%C3%A9ration%20Miracle.mp3",
             "title": "Génération Miracle",
             "artist": "Kerchak • Favé",
-            "thumbnailUrl": "Cover/Génération Miracle.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/G%C3%A9n%C3%A9ration%20Miracle.jpg"
         },
         {
-            "musicUrl": "Musique/Même pas un grincement.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/M%C3%AAme%20pas%20un%20grincement.mp3",
             "title": "Même pas un grincement",
             "artist": "Ziak",
-            "thumbnailUrl": "Cover/Chrome.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Chrome.jpg"
         },
         {
-            "musicUrl": "Musique/1 2 3 Soleil.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/1%202%203%20Soleil.mp3",
             "title": "1 2 3 Soleil",
             "artist": "Ziak",
-            "thumbnailUrl": "Cover/1 2 3 Soleil.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/1%202%203%20Soleil.jpg"
         },
         {
-            "musicUrl": "Musique/Mélanine.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/M%C3%A9lanine.mp3",
             "title": "Mélanine",
             "artist": "Heuss l'enfoiré • Werenoi",
-            "thumbnailUrl": "Cover/Mélanine.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/M%C3%A9lanine.jfif"
         },
         {
-            "musicUrl": "Musique/Chemin d'or.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Chemin%20d'or.mp3",
             "title": "Chemin d'or",
             "artist": "Werenoi",
-            "thumbnailUrl": "Cover/Carré.jpg"
-        } ,
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg"
+        },
         {
-            "musicUrl": "Musique/CRF - Nouvelle École.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/CRF%20-%20Nouvelle%20%C3%89cole.mp3",
             "title": "CRF",
             "artist": "Yorssy",
-            "thumbnailUrl": "Cover/CRF.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CRF.jfif"
         },
         {
-            "musicUrl": "Musique/East London (Nouvelle École).mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/East%20London%20(Nouvelle%20%C3%89cole).mp3",
             "title": "East London",
             "artist": "Lpee",
-            "thumbnailUrl": "Cover/East London.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/East%20London.jfif"
         },
         {
-            "musicUrl": "Musique/Émotif (Booska 1H).mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/%C3%89motif%20(Booska%201H).mp3",
             "title": "Émotif (Booska 1H)",
             "artist": "PLK",
-            "thumbnailUrl": "Cover/Emotif.jfif"
-        } ,
-        {
-            "musicUrl": "Musique/Éthanol.mp3",
-            "title": "Éthanol",
-            "artist": "Tsune",
-            "thumbnailUrl": "Cover/Ethanol.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Emotif.jfif"
         },
         {
-            "musicUrl": "Musique/Mignon tout plein.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/%C3%89thanol.mp3",
+            "title": "Éthanol",
+            "artist": "Tsune",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Ethanol.jfif"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mignon%20tout%20plein.mp3",
             "title": "Mignon tout plein",
             "artist": "PLK",
-            "thumbnailUrl": "Cover/Mignon tout plein.jfif"
-        } ,
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Mignon%20tout%20plein.jfif"
+        },
         {
-            "musicUrl": "Musique/Scarface.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Scarface.mp3",
             "title": "Scarface",
             "artist": "Werenoi",
-            "thumbnailUrl": "Cover/Scarface.jfif"
-        } ,
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Scarface.jfif"
+        },
         {
-            "musicUrl": "Musique/16.02.2024.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/16.02.2024.mp3",
             "title": "16.02.2024",
             "artist": "Werenoi",
-            "thumbnailUrl": "Cover/16.02.2024.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/16.02.2024.jfif"
         }
     ]
 }
