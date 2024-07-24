@@ -193,7 +193,7 @@
             "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265387171532116049/WsP87sYKAQfDI9lcLHswVr8FZA9o0ui-ytCI6gnMgnLpelSbEVBMQin9tGdW7vKm3oYeaKV-iiu00rww544-h544-l90-rj.png?ex=66a15323&is=66a001a3&hm=b1c83df0f4abfa2b28823a6f89b145feb8437cda7b367fac4a04e5d5e3a88ff6&=&format=webp&quality=lossless&width=350&height=350"
         },        
         {
-            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265386318465204234/SPOTIFY-DOWNLOADER.COM_Temoin.mp3?ex=66a15258&is=66a000d8&hm=b3ed49348375589c645fb716e8acfe948e22a5082bf94b07ce3fc7dfff633049&",
+            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265696829824041052/spotifydown.com_-_Temoin.mp3?ex=66a27387&is=66a12207&hm=9641679499027cf46214f01321cec53539e31fb5af5d2f1527b7f60f6a942047&",
             "title": "Temoin",
             "artist": "Werenoi",
             "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265313931669536929/ab67616d00001e02cb7db70068e16007c996e736.png?ex=66a10eed&is=669fbd6d&hm=ba3403afcbf03348b66fc2255729348e2cff03f4f3fca145d76239b22df84ccb&=&format=webp&quality=lossless"
@@ -245,6 +245,12 @@
             "title": "Telepherique",
             "artist": "Werenoi",
             "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265313931669536929/ab67616d00001e02cb7db70068e16007c996e736.png?ex=66a10eed&is=669fbd6d&hm=ba3403afcbf03348b66fc2255729348e2cff03f4f3fca145d76239b22df84ccb&=&format=webp&quality=lossless"
+        },        
+        {
+            "musicUrl": "https://cdn.discordapp.com/attachments/1193569886337765415/1265386318465204234/SPOTIFY-DOWNLOADER.COM_Temoin.mp3?ex=66a15258&is=66a000d8&hm=b3ed49348375589c645fb716e8acfe948e22a5082bf94b07ce3fc7dfff633049&",
+            "title": "Tu connais",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://media.discordapp.net/attachments/1193569886652350575/1265385117799677979/1900x1900-000000-80-0-0.png?ex=66a1f9f9&is=66a0a879&hm=727ac53c38d119acb374c0151f923381417bdf445a1901c4d363fe5703e7de49&=&format=webp&quality=lossless&width=559&height=559"
         }
     ]
 }
