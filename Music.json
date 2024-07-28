@@ -262,61 +262,91 @@
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Casse_belier.mp3",
             "title": "Casse Bélier",
             "artist": "Werenoi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Chemin_de_diamant.mp3",
             "title": "Chemin de diamant",
             "artist": "Werenoi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Confidences.mp3",
             "title": "Confidences",
             "artist": "Vacra • PLK",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Confidences.jfif"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Credibilite.mp3",
             "title": "Crédibilité",
             "artist": "Werenoi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram.png"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dans_les_clips.mp3",
             "title": "Dans les clips",
             "artist": "PLK",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Enna.png"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Demain.mp3",
             "title": "Demain",
             "artist": "PLK",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Demain.jfif"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dingue.mp3",
             "title": "Dingue",
             "artist": "PLK",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Emotif.jfif"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hola.mp3",
             "title": "Hola",
             "artist": "PLK",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Unpeudehaine.png"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hubert_et_Said.mp3",
             "title": "Hubert et Said",
             "artist": "PLK",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/RAF.png"
         },        
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hubert_et_Said.mp3",
-            "title": "Hubert et Said",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Idiote.mp3",
+            "title": "Idiote",
             "artist": "PLK",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Emotif.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Jamal.mp3",
+            "title": "Jamal",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram.png"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Maison_hantee.mp3",
+            "title": "Maison Hantée",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/NJ_Respect_R.mp3",
+            "title": "N.J Respect R",
+            "artist": "Damso",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Ips%C3%A9it%C3%A9.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Onana.mp3",
+            "title": "Onana",
+            "artist": "PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cafaitlongtemps.png"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ordinateur.mp3",
+            "title": "Ordinateur",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
         }
     ]
 }
