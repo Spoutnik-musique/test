@@ -251,6 +251,72 @@
             "title": "Tu connais",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/CORDILLERE.mp3",
+            "title": "CORDILLERE",
+            "artist": "Werenoi • Maes",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/CORDILLERE.mp3",
+            "title": "CORDILLERE",
+            "artist": "Werenoi • Maes",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Casse_belier.mp3",
+            "title": "Casse Bélier",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Chemin_de_diamant.mp3",
+            "title": "Chemin de diamant",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Confidences.mp3",
+            "title": "Confidences",
+            "artist": "Vacra • PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Credibilite.mp3",
+            "title": "Crédibilité",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dans_les_clips.mp3",
+            "title": "Dans les clips",
+            "artist": "PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Demain.mp3",
+            "title": "Demain",
+            "artist": "PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dingue.mp3",
+            "title": "Dingue",
+            "artist": "PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hola.mp3",
+            "title": "Hola",
+            "artist": "PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hubert_et_Said.mp3",
+            "title": "Hubert et Said",
+            "artist": "PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
         }
     ]
 }
