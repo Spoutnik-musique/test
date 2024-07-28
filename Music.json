@@ -257,13 +257,7 @@
             "title": "CORDILLERE",
             "artist": "Werenoi • Maes",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
-        },        
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/CORDILLERE.mp3",
-            "title": "CORDILLERE",
-            "artist": "Werenoi • Maes",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
-        },        
+        },               
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Casse_belier.mp3",
             "title": "Casse Bélier",
@@ -309,6 +303,12 @@
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hola.mp3",
             "title": "Hola",
+            "artist": "PLK",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hubert_et_Said.mp3",
+            "title": "Hubert et Said",
             "artist": "PLK",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CORDILLERE.jfif"
         },        
