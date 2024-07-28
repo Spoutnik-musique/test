@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajoutez votre musique</title>
+    <link rel="stylesheet" href="Upload.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Ajoutez votre musique</h1>
+        <form id="musicForm">
+            <label for="musicFile">Fichier MP3 :</label>
+            <input type="file" id="musicFile" accept=".mp3" required>
+
+            <label for="coverFile">Couverture (image) :</label>
+            <input type="file" id="coverFile" accept="image/*" required>
+
+            <label for="artist">Artiste :</label>
+            <input type="text" id="artist" placeholder="Nom de l'artiste" required>
+
+            <label for="title">Titre :</label>
+            <input type="text" id="title" placeholder="Titre de la musique" required>
+
+            <button type="submit">Ajouter la musique</button>
+        </form>
+        <div id="message"></div>
+    </div>
+    <script src="Upload.js"></script>
+</body>
+</html>
