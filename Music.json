@@ -275,13 +275,7 @@
             "title": "Confidences",
             "artist": "Vacra • PLK",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Confidences.jfif"
-        },        
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Cr%C3%A9dibilite.mp3",
-            "title": "Crédibilité",
-            "artist": "Werenoi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram.png"
-        },        
+        }      
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dans_les_clips.mp3",
             "title": "Dans les clips",
