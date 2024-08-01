@@ -363,3 +363,16 @@ function filterSongs(query) {
         suggestionsListElement.appendChild(suggestionElement);
     });
 }
+document.addEventListener('DOMContentLoaded', function () {
+    const albumCover = document.getElementById('album-cover');
+    const suggestionsContainer = document.getElementById('suggestions-container');
+    const suggestionsClose = document.getElementById('suggestions-close');
+
+    albumCover.addEventListener('click', function () {
+        suggestionsContainer.classList.toggle('visible');
+    });
+
+    suggestionsClose.addEventListener('click', function () {
+        suggestionsContainer.classList.remove('visible');
+    });
+});
