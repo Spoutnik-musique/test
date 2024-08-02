@@ -118,6 +118,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         suggestionElement.addEventListener('click', () => playSong(i));
         suggestionsListElement.appendChild(suggestionElement);
+
+        // Ajouter le contour blanc à la chanson en cours de lecture initiale
+        if (i === currentIndex) {
+            suggestionElement.classList.add('current-song');
+        }
     });
 
     // Ajouter des écouteurs d'événements pour la recherche
@@ -239,6 +244,16 @@ function playSong(index) {
     currentIndex = index; // Assurer que l'index courant est mis à jour
     const songDetails = songs[index];
     updateUI(songDetails);
+
+    // Mettre à jour le contour blanc pour la chanson en cours de lecture
+    const suggestionsListElement = document.getElementById('suggestions-list');
+    Array.from(suggestionsListElement.children).forEach((element, i) => {
+        if (i === index) {
+            element.classList.add('current-song');
+        } else {
+            element.classList.remove('current-song');
+        }
+    });
 
     // Assurez-vous que la lecture automatique est désactivée
     if (!isPlaying) {
@@ -363,6 +378,7 @@ function filterSongs(query) {
         suggestionsListElement.appendChild(suggestionElement);
     });
 }
+
 document.addEventListener('DOMContentLoaded', function () {
     const albumCover = document.getElementById('album-cover');
     const suggestionsContainer = document.getElementById('suggestions-container');
