@@ -389,18 +389,19 @@ body, html {
         flex-direction: column; /* Change to column to stack items */
         align-items: center; /* Center align the items */
         width: 200px;
+        padding-top: 30px;
     }
 
     .suggestion-cover {
         width: 100%;
-        height: auto; /* Ensure aspect ratio is maintained */
+        height: auto;
         border-radius: 10px;
     }
 
     .suggestion-info {
-        /* Center align the info section */
-        text-align: center; /* Align text to the center */
-        margin-top: 5px; /* Add some space above the text */
+
+        text-align: center; 
+        margin-top: 5px; 
     }
 
     .suggestion-title {
@@ -414,7 +415,7 @@ body, html {
     }
 
     .suggestions-list::-webkit-scrollbar {
-        width: 0px;
+        height: 10px;
     }
 
     .suggestions-list::-webkit-scrollbar-thumb {
