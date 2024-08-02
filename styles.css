@@ -173,6 +173,10 @@ body, html {
     background: #ffffff; /* White color for the filled part */
     border-radius: 2px;
 }
+.current-song {
+    border: 2px solid white;
+    border-radius: 10px; /* Pour que le contour suive la forme arrondie de l'image de la couverture */
+}
 
 .progress-bar::-ms-fill-upper {
     background: #535353;
