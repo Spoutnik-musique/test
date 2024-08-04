@@ -19,28 +19,10 @@
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/VraiFaux.mp3",
-            "title": "Vrai / Faux",
-            "artist": "Ziak",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Akimbo.jpg"
-        },
-        {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/G%C3%A9n%C3%A9ration%20Miracle.mp3",
             "title": "Génération Miracle",
             "artist": "Kerchak • Favé",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/G%C3%A9n%C3%A9ration%20Miracle.jpg"
-        },
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/M%C3%AAme%20pas%20un%20grincement.mp3",
-            "title": "Même pas un grincement",
-            "artist": "Ziak",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Chrome.jpg"
-        },
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/1%202%203%20Soleil.mp3",
-            "title": "1 2 3 Soleil",
-            "artist": "Ziak",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/1%202%203%20Soleil.jpg"
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/M%C3%A9lanine.mp3",
