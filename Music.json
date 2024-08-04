@@ -347,6 +347,12 @@
             "title": "Merci",
             "artist": "SDM",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/MERCI.jpg"
+        },       
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mr_Ocho.mp3",
+            "title": "Mr. Ocho",
+            "artist": "SDM",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Lien_Du_cent.jpg"
         }
     ]
 }
