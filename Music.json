@@ -341,6 +341,12 @@
             "title": "Ordinateur",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
+        },       
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/MERCI.mp3",
+            "title": "Merci",
+            "artist": "SDM",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/MERCI.jpg"
         }
     ]
 }
