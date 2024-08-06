@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     function updateProgress() {
         const progress = progressBar.value;
-        progressBar.style.background = `linear-gradient(to right, #fff ${progress}%, #333 ${progress}%)`;
+        progressBar.style.background = `linear-gradient(to right, #ffffff77 ${progress}%, #33333352 ${progress}%)`;
     }
 
     updateProgress();
