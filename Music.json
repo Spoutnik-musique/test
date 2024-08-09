@@ -325,6 +325,12 @@
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
         },       
         {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/La_League.mp3",
+            "title": "La League",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/La%20League.jfif"
+        },       
+        {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/MERCI.mp3",
             "title": "Merci",
             "artist": "SDM",
@@ -335,12 +341,6 @@
             "title": "Mr. Ocho",
             "artist": "SDM",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Lien_Du_cent.jpg"
-        },       
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/La_League.mp3",
-            "title": "Mr. Ocho",
-            "artist": "Werenoi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/La%20League.jfif"
         },       
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Solitaire.mp3",
