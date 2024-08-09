@@ -12,12 +12,14 @@
             "title": "Feu de bois",
             "artist": "Damso",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Feu%20de%20Bois.jpg"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Feu_de_Bois.txt"
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Pyramide%20(feat.%20Damso).mp3",
             "title": "Pyramide",
             "artist": "Werenoi • Damso",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pyramides.txt"
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/G%C3%A9n%C3%A9ration%20Miracle.mp3",
