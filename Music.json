@@ -11,35 +11,35 @@
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Feu%20de%20bois.mp3",
             "title": "Feu de bois",
             "artist": "Damso",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Feu%20de%20Bois.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Feu%20de%20Bois.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Feu_de_Bois.txt"
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Pyramide%20(feat.%20Damso).mp3",
             "title": "Pyramide",
             "artist": "Werenoi • Damso",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pyramides.txt"
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/G%C3%A9n%C3%A9ration%20Miracle.mp3",
             "title": "Génération Miracle",
             "artist": "Kerchak • Favé",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/G%C3%A9n%C3%A9ration%20Miracle.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/G%C3%A9n%C3%A9ration%20Miracle.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Generation_Miracles.txt"
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/M%C3%A9lanine.mp3",
             "title": "Mélanine",
             "artist": "Heuss l'enfoiré • Werenoi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/M%C3%A9lanine.jfif"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/M%C3%A9lanine.jfif",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Melanine.txt"
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Chemin%20d'or.mp3",
             "title": "Chemin d'or",
             "artist": "Werenoi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Chemin_dor.txt"
         },
         {
