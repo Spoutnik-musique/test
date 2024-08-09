@@ -292,6 +292,81 @@ async function fetchPlaylistSongs() {
         return [];
     }
 }
+// Fonction pour obtenir la chanson en cours de lecture
+function getCurrentSong() {
+    return songs[currentIndex]; // Retourne la chanson actuelle à partir de l'index courant
+}
+
+// Fonction pour récupérer les paroles d'une chanson à partir de l'URL fournie
+async function fetchLyrics(url) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error('Failed to fetch lyrics');
+        }
+        const lyrics = await response.text();
+        return lyrics;
+    } catch (error) {
+        console.error('Error fetching lyrics:', error.message);
+        return 'Lyrics not available.';
+    }
+}
+
+// Fonction pour afficher les paroles dans le conteneur
+function displayLyrics(lyrics) {
+    const lyricsContainer = document.getElementById('lyrics-container');
+    const lyricsContent = document.getElementById('lyrics-content');
+    lyricsContent.textContent = lyrics;
+    lyricsContainer.classList.add('visible');
+}
+
+// Fonction pour masquer les paroles
+function hideLyrics() {
+    const lyricsContainer = document.getElementById('lyrics-container');
+    lyricsContainer.classList.remove('visible');
+}
+
+// Gestionnaire d'événement pour l'action de glisser vers le bas
+document.addEventListener('swipedown', async () => {
+    const currentSong = getCurrentSong();
+    if (currentSong && currentSong.Parole) {
+        const lyrics = await fetchLyrics(currentSong.Parole);
+        displayLyrics(lyrics);
+    } else {
+        displayLyrics('Lyrics not available.');
+    }
+});
+
+// Gestionnaire d'événement pour masquer les paroles lors d'un glissement vers le haut ou d'un clic à l'extérieur
+document.addEventListener('swipeup', hideLyrics);
+document.getElementById('lyrics-container').addEventListener('click', hideLyrics);
+
+// Gestionnaire d'événement pour les suggestions (non complet, dépend du reste de votre code)
+document.addEventListener('mousedown', (e) => {
+    if (e.button === 0) {
+        // Logique pour afficher les suggestions
+    }
+});
+
+document.addEventListener('DOMContentLoaded', function () {
+    const albumCover = document.getElementById('album-cover');
+    const lyricsContainer = document.getElementById('lyrics-container');
+    const lyricsClose = document.getElementById('lyrics-close');
+
+    albumCover.addEventListener('click', async function () {
+        const currentSong = getCurrentSong();
+        if (currentSong && currentSong.Parole) {
+            const lyrics = await fetchLyrics(currentSong.Parole);
+            displayLyrics(lyrics);
+        } else {
+            displayLyrics('Lyrics not available.');
+        }
+    });
+
+    lyricsClose.addEventListener('click', function () {
+        hideLyrics();
+    });
+});
 
 const suggestionsContainer = document.getElementById('suggestions-container');
 
@@ -378,17 +453,3 @@ function filterSongs(query) {
         suggestionsListElement.appendChild(suggestionElement);
     });
 }
-
-document.addEventListener('DOMContentLoaded', function () {
-    const albumCover = document.getElementById('album-cover');
-    const suggestionsContainer = document.getElementById('suggestions-container');
-    const suggestionsClose = document.getElementById('suggestions-close');
-
-    albumCover.addEventListener('click', function () {
-        suggestionsContainer.classList.toggle('visible');
-    });
-
-    suggestionsClose.addEventListener('click', function () {
-        suggestionsContainer.classList.remove('visible');
-    });
-});
