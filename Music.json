@@ -4,7 +4,8 @@
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mwaka%20Moon.mp3",
             "title": "Mwaka Moon",
             "artist": "Kalash • Damso",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Mwaka%20Moon.jpg"
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Mwaka%20Moon.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt",
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Feu%20de%20bois.mp3",
