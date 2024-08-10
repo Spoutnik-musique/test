@@ -47,7 +47,7 @@
             "title": "CRF",
             "artist": "Yorssy",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CRF.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/CRF.txt"
             
         },
         {
@@ -62,7 +62,7 @@
             "title": "Émotif (Booska 1H)",
             "artist": "PLK",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Emotif.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Emotif.txt"
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/%C3%89thanol.mp3",
@@ -216,7 +216,7 @@
             "title": "Laboratoire",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Laboratoire.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/RollsRoyce.mp3",
@@ -328,28 +328,28 @@
             "title": "Hola",
             "artist": "PLK",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Unpeudehaine.png",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Hola.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hubert_et_Said.mp3",
             "title": "Hubert et Said",
             "artist": "PLK",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/RAF.png",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Hubert_et_Said.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Idiote.mp3",
             "title": "Idiote",
             "artist": "PLK",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Emotif.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Idiote.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Jamal.mp3",
             "title": "Jamal",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram.png",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Jamal.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Maison_hantee.mp3",
@@ -384,7 +384,7 @@
             "title": "La League",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/La%20League.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/La_League.txt"
         },       
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/MERCI.mp3",
