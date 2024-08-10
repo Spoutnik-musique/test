@@ -272,7 +272,7 @@
             "title": "Tu connais",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Tu_Connais.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/CORDILLERE.mp3",
@@ -356,28 +356,28 @@
             "title": "Maison Hantée",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Maison_hantee.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/NJ_Respect_R.mp3",
             "title": "N.J Respect R",
             "artist": "Damso",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Ips%C3%A9it%C3%A9.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/NJ_Respect_R.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Onana.mp3",
             "title": "Onana",
             "artist": "PLK",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cafaitlongtemps.png",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Onana.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ordinateur.mp3",
             "title": "Ordinateur",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ordinateur.txt"
         },       
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/La_League.mp3",
@@ -391,21 +391,21 @@
             "title": "Merci",
             "artist": "SDM",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/MERCI.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Merci.txt"
         },       
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mr_Ocho.mp3",
             "title": "Mr. Ocho",
             "artist": "SDM",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Lien_Du_cent.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mr_Ocho.txt"
         },       
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Solitaire.mp3",
             "title": "Solitaire",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Solitaire.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Solitaire.txt"
         }
     ]
 }
