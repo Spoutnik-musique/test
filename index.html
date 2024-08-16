@@ -50,6 +50,11 @@
         <div class="suggestions-container" id="suggestions-container">
             <div class="suggestions-header">
                 <div class="suggestions-title">Autres musiques de la playlist</div>
+                <div class="volume-control">
+                    <span id="volumeIcon" class="material-icons-outlined">volume_up</span>
+                    <input type="range" id="volumeSlider" class="volume-slider" min="0" max="100" value="50">
+                </div>
+                
                 <div class="suggestions-close" id="suggestions-close">&times;</div>
             </div>
             <div class="parent-container">
@@ -60,8 +65,7 @@
             </div>
             <div class="suggestions-list" id="suggestions-list"></div>
         </div>
-    </div>
-    
+        
     <script src="https://spoutnik-musique.github.io/test/script.js"></script>
 </body>
 </html>
