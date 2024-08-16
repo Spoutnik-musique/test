@@ -10,6 +10,44 @@ let isLeftMouseDown = false;
 let startY = 0;
 let currentY = 0;
 let filteredIndices = [];
+document.getElementById('volumeSlider').addEventListener('input', (event) => {
+    const volume = event.target.value / 100;
+    audioPlayer.volume = volume;
+
+    const volumeIcon = document.getElementById('volumeIcon');
+    if (volume === 0) {
+        volumeIcon.textContent = 'volume_off';
+    } else if (volume < 0.5) {
+        volumeIcon.textContent = 'volume_down';
+    } else {
+        volumeIcon.textContent = 'volume_up';
+    }
+
+    saveVolumeState(volume); // Save the volume level in local storage
+});
+
+// Function to save the volume state
+function saveVolumeState(volume) {
+    localStorage.setItem('volume', volume);
+}
+
+// Load the saved volume state
+function loadVolumeState() {
+    const savedVolume = localStorage.getItem('volume');
+    if (savedVolume !== null) {
+        audioPlayer.volume = parseFloat(savedVolume);
+        document.getElementById('volumeSlider').value = savedVolume * 100;
+
+        const volumeIcon = document.getElementById('volumeIcon');
+        if (savedVolume === '0') {
+            volumeIcon.textContent = 'volume_off';
+        } else if (savedVolume < 0.5) {
+            volumeIcon.textContent = 'volume_down';
+        } else {
+            volumeIcon.textContent = 'volume_up';
+        }
+    }
+}
 
 function updateUI(songDetails) {
     const titleElement = document.getElementById('title');
@@ -73,7 +111,10 @@ function loadState() {
     if (savedCurrentTime !== null) {
         audioPlayer.currentTime = parseFloat(savedCurrentTime);
     }
+
+    loadVolumeState(); // Load saved volume level
 }
+
 
 document.addEventListener('DOMContentLoaded', async () => {
     loadState(); // Charger l'état sauvegardé
