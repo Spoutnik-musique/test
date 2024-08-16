@@ -381,56 +381,6 @@ body, html {
     font-size: 14px;
     color: grey;
 }
-@media (min-width: 768px) {
-    .suggestions-list {
-        display: flex;
-        flex-wrap: wrap;
-        overflow-x: auto;
-    }
-
-    .suggestion-item {
-        display: flex;
-        flex-direction: column; /* Change to column to stack items */
-        align-items: center; /* Center align the items */
-        width: 200px;
-        padding-top: 30px;
-    }
-
-    .suggestion-cover {
-        width: 100%;
-        height: auto;
-        border-radius: 10px;
-    }
-
-    .suggestion-info {
-
-        text-align: center; 
-        margin-top: 5px; 
-    }
-
-    .suggestion-title {
-        font-size: 18px;
-        font-weight: bold;
-    }
-
-    .suggestion-artist {
-        font-size: 14px;
-        color: grey;
-    }
-
-    .suggestions-list::-webkit-scrollbar {
-        height: 10px;
-    }
-
-    .suggestions-list::-webkit-scrollbar-thumb {
-        background: #888;
-        border-radius: 10px;
-    }
-
-    .suggestions-list::-webkit-scrollbar-thumb:hover {
-        background: #555;
-    }
-}
 .lyrics-container {
     position: fixed;
     top: 100%;
@@ -463,4 +413,120 @@ body, html {
     white-space: pre-wrap;
     font-size: 1.2em;
     line-height: 1.5em;
+}
+
+.volume-control {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-right: 20px; /* Espace à droite pour l'alignement */
+}
+
+#volumeIcon {
+    font-size: 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+#volumeIcon:hover {
+    color: #ccc;
+}
+
+.volume-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100px; /* Ajuster selon la largeur souhaitée */
+    height: 4px;
+    background: #535353;
+    border-radius: 2px;
+    outline: none;
+    opacity: 0.7;
+    transition: opacity .2s;
+}
+
+.volume-slider:hover {
+    opacity: 1;
+}
+
+.volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 12px;
+    height: 12px;
+    background: #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.volume-slider::-moz-range-thumb {
+    width: 12px;
+    height: 12px;
+    background: #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.volume-slider::-ms-thumb {
+    width: 12px;
+    height: 12px;
+    background: #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+/* Supprimer le volume-control sur mobile */
+@media (max-width: 767px) {
+    .volume-control {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .suggestions-list {
+        display: flex;
+        flex-wrap: wrap;
+        overflow-x: auto;
+    }
+
+    .suggestion-item {
+        display: flex;
+        flex-direction: column; /* Change to column to stack items */
+        align-items: center; /* Center align the items */
+        width: 200px;
+        padding-top: 30px;
+    }
+
+    .suggestion-cover {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .suggestion-info {
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    .suggestion-title {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .suggestion-artist {
+        font-size: 14px;
+        color: grey;
+    }
+
+    .suggestions-list::-webkit-scrollbar {
+        height: 10px;
+    }
+
+    .suggestions-list::-webkit-scrollbar-thumb {
+        background: #888;
+        border-radius: 10px;
+    }
+
+    .suggestions-list::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
 }
