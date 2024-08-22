@@ -406,6 +406,20 @@
             "artist": "Maes • Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Selfie.jfif",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Selfie.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mauvaise.mp3",
+            "title": "Mauvaise",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mauvaise.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Magot.mp3",
+            "title": "Magot",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Magot.txt"
         }
     ]
 }
