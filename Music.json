@@ -233,13 +233,6 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Reste_en_Vie.mp3",
-            "title": "Reste en vie",
-            "artist": "Luidji",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Resteenvie.png",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
-        },
-        {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/R.A.F.mp3",
             "title": "R.A.F",
             "artist": "PLK",
@@ -406,6 +399,13 @@
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Solitaire.jfif",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Solitaire.txt"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Selfie.mp3",
+            "title": "Selfie",
+            "artist": "Maes • Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Selfie.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Selfie.txt"
         }
     ]
 }
