@@ -427,6 +427,13 @@
             "artist": "SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Cannelloni.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Prequel.mp3",
+            "title": "Prequel",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Prequel.txt"
         }
     ]
 }
