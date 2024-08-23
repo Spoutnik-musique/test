@@ -420,6 +420,13 @@
             "artist": "Werenoi • SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Magot.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Cannelloni.mp3",
+            "title": "Cannelloni",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Cannelloni.txt"
         }
     ]
 }
