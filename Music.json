@@ -415,27 +415,6 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mauvaise.txt"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Magot.mp3",
-            "title": "Magot",
-            "artist": "Werenoi • SCH",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Magot.txt"
-        },
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Cannelloni.mp3",
-            "title": "Cannelloni",
-            "artist": "SCH",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Cannelloni.txt"
-        },
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Prequel.mp3",
-            "title": "Prequel",
-            "artist": "SCH",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Prequel.txt"
-        },
-        {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hells%20Kitchen.mp3",
             "title": "Hells Kitchen",
             "artist": "SCH",
@@ -455,6 +434,27 @@
             "artist": "SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Les hommes aux yeux noirs.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Magot.mp3",
+            "title": "Magot",
+            "artist": "Werenoi • SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Magot.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Cannelloni.mp3",
+            "title": "Cannelloni",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Cannelloni.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Prequel.mp3",
+            "title": "Prequel",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Prequel.txt"
         }
     ]
 }
