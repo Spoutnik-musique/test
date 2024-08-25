@@ -436,25 +436,25 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Prequel.txt"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hells_Kitchen.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hells Kitchen.mp3",
             "title": "Hells Kitchen",
             "artist": "SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/HellsKitchen.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Hells Kitchen.txt"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/QuoiSCH.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Quoi.mp3",
             "title": "Quoi",
             "artist": "SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Quoi.txt"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/hommesaux yeuxnoirs.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Les hommes aux yeux noirs.mp3",
             "title": "Les hommes aux yeux noirs",
             "artist": "SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Leshommesauxyeuxnoirs.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Les hommes aux yeux noirs.txt"
         }
     ]
 }
