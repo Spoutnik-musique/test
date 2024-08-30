@@ -455,6 +455,34 @@
             "artist": "SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Les hommes aux yeux noirs.txt"
+        },        
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/LA GOMME.mp3",
+            "title": "LA GOMME",
+            "artist": "Maes",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/En Attendant LVC 2.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/LA GOMME.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Beaux-artss.mp3",
+            "title": "Beaux-arts",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Beaux-arts.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Calabre.mp3",
+            "title": "Calabre",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Calabre.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Adorable (Bonus).mp3",
+            "title": "Adorable",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Adorable (Bonus).txt"
         }
     ]
 }
