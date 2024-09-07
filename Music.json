@@ -43,14 +43,6 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Chemin_dor.txt"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/CRF%20-%20Nouvelle%20%C3%89cole.mp3",
-            "title": "CRF",
-            "artist": "Yorssy",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/CRF.jfif",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/CRF.txt"
-            
-        },
-        {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/East%20London%20(Nouvelle%20%C3%89cole).mp3",
             "title": "East London",
             "artist": "Lpee",
