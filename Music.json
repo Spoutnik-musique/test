@@ -526,11 +526,11 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/3 Singe.txt"
         },       
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Toka.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/TOKA.mp3",
             "title": "Toka",
             "artist": "SDM • Hamza",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/MERCI.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Toka.txt"
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/TOKA.txt"
         }
     ]
 }
