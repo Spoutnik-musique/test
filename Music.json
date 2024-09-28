@@ -615,6 +615,27 @@
             "artist": "SDM • Josman",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/MERCI.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/AFFRANCHIS.txt"
+        },       
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Intro.mp3",
+            "title": "Intro",
+            "artist": "SDM",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Ocho.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Intro.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Jimmy Twice.mp3",
+            "title": "Jimmy Twice",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JVLIVS.jfif",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Jimmy Twice.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/La vie de star.mp3",
+            "title": "La vie de star",
+            "artist": "Werenoi • Maes • SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/La vie de star.txt"
         }
     ]
 }
