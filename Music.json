@@ -676,7 +676,14 @@
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Pétunias.mp3",
             "title": "Vision",
             "artist": "Xertox",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Xertox.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Xertox.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pétunias.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Pétunias.mp3",
+            "title": "Vision",
+            "artist": "Xertox",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Xertox.png",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pétunias.txt"
         }
     ]
