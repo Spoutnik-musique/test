@@ -1,5 +1,12 @@
 {
     "songs": [
+          {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Pétunias.mp3",
+            "title": "Vision",
+            "artist": "Xertox",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Xertox.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pétunias.txt"
+        },     
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mwaka%20Moon.mp3",
             "title": "Mwaka Moon",
@@ -7,6 +14,7 @@
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Mwaka%20Moon.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
         },
+
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Feu%20de%20bois.mp3",
             "title": "Feu de bois",
@@ -670,13 +678,6 @@
             "title": "Pétunias",
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pétunias.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pétunias.txt"
-        },
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Pétunias.mp3",
-            "title": "Vision",
-            "artist": "Xertox",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Xertox.png",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pétunias.txt"
         }
     ]
