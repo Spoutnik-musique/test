@@ -16,22 +16,22 @@ document.getElementById('volumeSlider').addEventListener('input', (event) => {
 
     const volumeIcon = document.getElementById('volumeIcon');
     if (volume === 0) {
-        volumeIcon.textContent = 'volume_off';
+        volumeIcon.className = 'bi bi-volume-mute'; // Changer l'icône à volume muet
     } else if (volume < 0.5) {
-        volumeIcon.textContent = 'volume_down';
+        volumeIcon.className = 'bi bi-volume-down'; // Changer l'icône à volume faible
     } else {
-        volumeIcon.textContent = 'volume_up';
+        volumeIcon.className = 'bi bi-volume-up'; // Changer l'icône à volume élevé
     }
 
-    saveVolumeState(volume); // Save the volume level in local storage
+    saveVolumeState(volume); // Sauvegarder le niveau de volume dans le stockage local
 });
 
-// Function to save the volume state
+// Fonction pour sauvegarder l'état du volume
 function saveVolumeState(volume) {
     localStorage.setItem('volume', volume);
 }
 
-// Load the saved volume state
+// Charger l'état de volume sauvegardé
 function loadVolumeState() {
     const savedVolume = localStorage.getItem('volume');
     if (savedVolume !== null) {
@@ -40,11 +40,11 @@ function loadVolumeState() {
 
         const volumeIcon = document.getElementById('volumeIcon');
         if (savedVolume === '0') {
-            volumeIcon.textContent = 'volume_off';
+            volumeIcon.className = 'bi bi-volume-mute'; // Utilise l'icône pour volume muet
         } else if (savedVolume < 0.5) {
-            volumeIcon.textContent = 'volume_down';
+            volumeIcon.className = 'bi bi-volume-down'; // Utilise l'icône pour volume faible
         } else {
-            volumeIcon.textContent = 'volume_up';
+            volumeIcon.className = 'bi bi-volume-up'; // Utilise l'icône pour volume élevé
         }
     }
 }
@@ -111,10 +111,7 @@ function loadState() {
     if (savedCurrentTime !== null) {
         audioPlayer.currentTime = parseFloat(savedCurrentTime);
     }
-
-    loadVolumeState(); // Load saved volume level
 }
-
 
 document.addEventListener('DOMContentLoaded', async () => {
     loadState(); // Charger l'état sauvegardé
@@ -133,38 +130,40 @@ document.addEventListener('DOMContentLoaded', async () => {
             console.error(`Chanson invalide pour l'index ${i}`);
             return;
         }
-
+    
         const suggestionElement = document.createElement('div');
         suggestionElement.className = 'suggestion-item';
-
+    
         const coverElement = document.createElement('img');
         coverElement.className = 'suggestion-cover';
         coverElement.src = song.thumbnailUrl;
         suggestionElement.appendChild(coverElement);
-
+    
         const infoElement = document.createElement('div');
         infoElement.className = 'suggestion-info';
-
+    
         const titleElement = document.createElement('div');
         titleElement.className = 'suggestion-title';
         titleElement.textContent = song.title;
         infoElement.appendChild(titleElement);
-
+    
         const artistElement = document.createElement('div');
         artistElement.className = 'suggestion-artist';
         artistElement.textContent = song.artist;
         infoElement.appendChild(artistElement);
-
+    
         suggestionElement.appendChild(infoElement);
-
+    
+        // Ajout d'un événement de clic pour jouer la chanson
         suggestionElement.addEventListener('click', () => playSong(i));
         suggestionsListElement.appendChild(suggestionElement);
-
-        // Ajouter le contour blanc à la chanson en cours de lecture initiale
+    
+        // Ajouter un contour blanc à la chanson en cours de lecture initiale
         if (i === currentIndex) {
             suggestionElement.classList.add('current-song');
         }
     });
+    
 
     // Ajouter des écouteurs d'événements pour la recherche
     const searchInput = document.getElementById('searchInput');
@@ -225,35 +224,33 @@ document.addEventListener('DOMContentLoaded', async () => {
         saveState(); // Sauvegarder l'état après la fin de la chanson
     });
 });
-
 document.getElementById('playPauseButton').addEventListener('click', () => {
     if (isPlaying) {
         audioPlayer.pause();
-        document.querySelector('#playPauseButton .material-icons-outlined').textContent = 'play_arrow';
+        document.querySelector('#playPauseButton i').classList.replace('bi-pause-fill', 'bi-play-fill');
     } else {
         audioPlayer.play().catch(error => {
             console.error('Erreur lors de la lecture automatique:', error);
         });
-        document.querySelector('#playPauseButton .material-icons-outlined').textContent = 'pause';
+        document.querySelector('#playPauseButton i').classList.replace('bi-play-fill', 'bi-pause-fill');
     }
     isPlaying = !isPlaying;
-    saveState(); // Sauvegarder l'état à chaque fois que la lecture est mise en pause ou reprise
+    saveState(); // Sauvegarder l'état
 });
 
 document.getElementById('shuffleButton').addEventListener('click', () => {
     isShuffle = !isShuffle;
-    document.querySelector('#shuffleButton .material-icons-outlined').textContent = isShuffle ? 'shuffle_on' : 'shuffle';
-    if (isShuffle) {
-        shuffledIndices = [];
-    }
-    saveState(); // Sauvegarder l'état lorsque le mode shuffle est changé
+    document.getElementById('shuffleButton').classList.toggle('active', isShuffle); // Ajoute la classe active
+    saveState();
 });
 
 document.getElementById('repeatButton').addEventListener('click', () => {
     isRepeat = !isRepeat;
-    document.querySelector('#repeatButton .material-icons-outlined').textContent = isRepeat ? 'repeat_on' : 'repeat';
-    saveState(); // Sauvegarder l'état lorsque le mode repeat est changé
+    document.getElementById('repeatButton').classList.toggle('active', isRepeat); // Ajoute la classe active
+    saveState();
 });
+
+
 
 function getNextIndex() {
     if (isShuffle) {
@@ -272,53 +269,71 @@ document.getElementById('nextButton').addEventListener('click', () => {
     playSong(currentIndex);
 });
 
-document.getElementById('prevButton').addEventListener('click', () => {
-    if (isShuffle) {
-        currentIndex = shuffledIndices.length > 0 ? shuffledIndices.pop() : Math.floor(Math.random() * songs.length);
-    } else {
-        currentIndex = (currentIndex - 1 + songs.length) % songs.length;
-    }
-    playSong(currentIndex);
-});
+let history = []; // Pile pour stocker l'historique des chansons jouées
 
 function playSong(index) {
-    currentIndex = index; // Assurer que l'index courant est mis à jour
-    const songDetails = songs[index];
-    updateUI(songDetails);
+    currentIndex = index; // Met à jour l'index courant
+    const songDetails = songs[index]; // Détails de la chanson actuelle
+    updateUI(songDetails); // Met à jour l'interface utilisateur
 
-    // Mettre à jour le contour blanc pour la chanson en cours de lecture
+    // Met à jour le contour blanc pour la chanson en cours de lecture
     const suggestionsListElement = document.getElementById('suggestions-list');
     Array.from(suggestionsListElement.children).forEach((element, i) => {
         if (i === index) {
-            element.classList.add('current-song');
+            element.classList.add('current-song'); // Ajoute une classe pour la chanson actuelle
         } else {
-            element.classList.remove('current-song');
+            element.classList.remove('current-song'); // Retire la classe pour les autres chansons
         }
     });
 
-    // Assurez-vous que la lecture automatique est désactivée
-    if (!isPlaying) {
-        audioPlayer.src = songDetails.musicUrl;
-        audioPlayer.load(); // Charger la chanson sans lire automatiquement
+    audioPlayer.src = songDetails.musicUrl; // Charge la chanson
+    audioPlayer.load(); // Précharge la chanson
 
-        // Ajouter un événement pour jouer lorsque l'utilisateur clique sur le bouton de lecture
-        document.getElementById('playPauseButton').addEventListener('click', () => {
-            audioPlayer.play().catch(error => {
-                console.error('Erreur lors de la lecture automatique:', error);
-            });
-            document.querySelector('#playPauseButton .material-icons-outlined').textContent = 'pause';
-            isPlaying = true;
-            saveState();
-        }, { once: true });
+    // Ajouter la chanson actuelle à l'historique
+    if (history.length === 0 || history[history.length - 1] !== currentIndex) {
+        history.push(currentIndex); // Ajoute à l'historique si ce n'est pas déjà la même chanson
+    }
+
+    // Joue la chanson si elle n'est pas déjà en train de jouer
+    if (!isPlaying) {
+        audioPlayer.play().then(() => {
+            document.querySelector('#playPauseButton i').classList.replace('bi-play-fill', 'bi-pause-fill'); // Change l'icône pour pause
+            isPlaying = true; // Met à jour l'état de lecture
+        }).catch(error => {
+            console.error('Erreur lors de la lecture automatique:', error);
+        });
     } else {
-        audioPlayer.src = songDetails.musicUrl;
         audioPlayer.play().catch(error => {
             console.error('Erreur lors de la lecture automatique:', error);
         });
     }
 
-    saveState(); // Sauvegarder l'état lorsque la chanson change
+    saveState(); // Sauvegarde l'état lorsque la chanson change
 }
+
+// Logique pour le bouton Précédent
+document.getElementById('prevButton').addEventListener('click', () => {
+    if (isShuffle) {
+        // Mode aléatoire
+        if (history.length > 1) {
+            history.pop(); // Retire la chanson actuelle de l'historique
+            currentIndex = history[history.length - 1]; // Prendre la dernière chanson jouée
+            playSong(currentIndex); // Jouer cette chanson
+        } else if (history.length === 1) {
+            currentIndex = history[0]; // Joue la première chanson à nouveau
+            playSong(currentIndex);
+        } else {
+            // Aucun historique, choisir une chanson aléatoire
+            currentIndex = Math.floor(Math.random() * songs.length);
+            playSong(currentIndex);
+        }
+    } else {
+        // Mode normal (non aléatoire)
+        currentIndex = (currentIndex - 1 + songs.length) % songs.length; // Retourne à la chanson précédente
+        playSong(currentIndex); // Joue la chanson précédente dans l'ordre
+    }
+});
+
 
 async function fetchPlaylistSongs() {
     try {
