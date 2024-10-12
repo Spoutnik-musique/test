@@ -686,6 +686,27 @@
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/100 Points.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/RS3.mp3",
+            "title": "RS3",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/RS3.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Business.mp3",
+            "title": "Business",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Business.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Le Fer.m4a",
+            "title": "Le Fer",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Le Fer.txt"
         }
     ]
 }
