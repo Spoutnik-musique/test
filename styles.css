@@ -35,7 +35,7 @@ body, html {
     left: 0;
     width: 100vw; /* Utilisez vw pour la largeur */
     height: 100vh; /* Utilisez vh pour la hauteur */
-    filter: blur(120px);
+    filter: blur(100px);
     background-size: cover;
     background-position: center;
     animation: moveBackground 40s linear infinite;
@@ -198,12 +198,12 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40;
-    font-size: 24px;
+    padding: 7px;
+    font-size: 25px; /* Taille des icônes pour les autres boutons */
     cursor: pointer;
     color: #fff;
     border: none;
-    background: none; /* Pas de fond pour les autres boutons */
+    background: none; /* Aucun fond pour les boutons */
     transition: color 0.3s; /* Transition douce pour la couleur */
 }
 
@@ -211,17 +211,16 @@ body, html {
     color: #ccc; /* Change la couleur de l'icône lors du survol */
 }
 
-#playPauseButton {
-    width: 70px; /* Largeur plus grande pour le bouton de lecture */
-    height: 70px; /* Hauteur plus grande pour le bouton de lecture */
-    font-size: 32px; /* Taille de police plus grande pour le bouton de lecture */
-    background-color: rgba(255, 255, 255, 0.178); /* Fond transparent à 90% */
-    border-radius: 50%; /* Rend le bouton rond */
-    transition: background-color 0.3s; /* Ajoute une transition douce pour le changement de couleur */
+#playPauseButton i {
+    font-size: 70px; /* Agrandit uniquement l'icône PlayPause */
+}
+.control-button.active i {
+    color: #5e5e5e; /* Vert quand activé */
 }
 
-#playPauseButton:hover {
-    background-color: rgba(255, 255, 255, 0.301); /* Fond transparent à 60% lors du survol */
+.control-button i {
+    color: #fff; /* Blanc par défaut */
+    transition: color 0.3s; /* Transition douce de la couleur */
 }
 
 
@@ -529,4 +528,18 @@ body, html {
     .suggestions-list::-webkit-scrollbar-thumb:hover {
         background: #555;
     }
+}
+.download-button {
+    margin-left: auto;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.download-button:hover {
+    background-color: #45a049;
 }
