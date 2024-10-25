@@ -793,6 +793,20 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/L'or et la Pierre.txt"
         },
         {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Alpha.mp3",
+            "title": "Alpha",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Alpha.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/La famine.mp3",
+            "title": "LA FAMINE",
+            "artist": "Werenoi • Gazo",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/La famine.txt"
+        },
+        {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Parachute.mp3",
             "title": "Parachute",
             "artist": "Bu$hi",
