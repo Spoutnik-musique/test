@@ -854,6 +854,48 @@
             "artist": "SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Stigmates.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Stigmates.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Je la connais.mp3",
+            "title": "JE LA CONNAIS",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Arnarchie.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/JE LA CONNAIS.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Allo maman.mp3",
+            "title": "ALLO MAMAN",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Arnarchie.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Allo maman.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/La nuit.mp3",
+            "title": "LA NUIT",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Deo Favente.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/La nuit.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Mafia.mp3",
+            "title": "MAFIA",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JuliusII.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mafia.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Marché noir.mp3",
+            "title": "Marché Noir",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JuliusII.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Marché noir.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Crack.mp3",
+            "title": "CRACK",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/JuliusII.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Crack.txt"
         }
     ]
 }
