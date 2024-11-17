@@ -64,6 +64,8 @@ function updateUI(songDetails) {
         backgroundElement.style.backgroundImage = `url('${thumbnailUrl}')`;
         audioPlayer.src = musicUrl;
 
+        document.title = `${title} • ${artist}`; // Mise à jour du titre de la page
+
         audioPlayer.ontimeupdate = () => {
             if (!isNaN(audioPlayer.duration)) {
                 const progress = (audioPlayer.currentTime / audioPlayer.duration) * 100;
@@ -80,6 +82,7 @@ function updateUI(songDetails) {
         albumCoverElement.src = "";
         backgroundElement.style.backgroundImage = "";
         document.getElementById('time').textContent = "0:00 / 0:00";
+        document.title = "Spoutnik"; // Titre par défaut
         if (window.api) window.api.setActivity();
     }
 }
