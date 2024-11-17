@@ -376,6 +376,7 @@ body, html {
 .suggestion-title {
     font-size: 18px;
     font-weight: bold;
+    text-transform: uppercase; /* Transforme tout le texte en majuscules */
 }
 
 .suggestion-artist {
@@ -511,6 +512,7 @@ body, html {
     .suggestion-title {
         font-size: 18px;
         font-weight: bold;
+    text-transform: uppercase; /* Transforme tout le texte en majuscules */
     }
 
     .suggestion-artist {
