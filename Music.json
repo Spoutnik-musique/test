@@ -244,13 +244,6 @@
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
-        }, 
-        {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Téléphérique.mp3",
-            "title": "Telepherique",
-            "artist": "Werenoi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mwaka_Moon.txt"
         },        
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Tu_Connais.mp3",
