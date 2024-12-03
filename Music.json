@@ -937,6 +937,13 @@
             "artist": "SCH",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Stigmates.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/La pluie.txt"
+        }, 
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Téléphérique-2.mp3",
+            "title": "Téléphérique",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Téléphérique.txt"
         }
     ]
 }
