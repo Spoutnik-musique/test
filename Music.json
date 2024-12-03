@@ -799,6 +799,13 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/La famine.txt"
         },
         {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/6 étoiles.mp3",
+            "title": "6 étoilesE",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/6 étoiles.txt"
+        },
+        {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Parachute.mp3",
             "title": "Parachute",
             "artist": "Bu$hi",
@@ -937,6 +944,27 @@
             "artist": "Werenoi",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Téléphérique.txt"
+        }, 
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Je suis en moto.mp3",
+            "title": "Je suis en moto",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Je suis en moto.txt"
+        }, 
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Intro Morphée.mp3",
+            "title": "Intro Morphée",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Intro Morphée.txt"
+        }, 
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Faf.mp3",
+            "title": "Faf",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramides.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Faf.txt"
         }
     ]
 }
