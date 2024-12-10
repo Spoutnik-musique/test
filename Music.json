@@ -51,7 +51,7 @@
         },
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/%C3%89motif%20(Booska%201H).mp3",
-            "title": "Émotif (Booska 1H)",
+            "title": "Émotif",
             "artist": "PLK",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Emotif.jfif",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Emotif.txt"
@@ -997,7 +997,7 @@
         {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/0200.mp3",
             "title": "02:00",
-            "artist": "SCH",
+            "artist": "SCH • Damso",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Stigmates.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/0200.txt"
         },
