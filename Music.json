@@ -1021,6 +1021,13 @@
             "artist": "Ziak",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Chassé-croisé.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Chassé-croisé.mp3",
+            "title": "Fassé-Froisé",
+            "artist": "Fiak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Chassé-croisé.txt"
         }
     ]
 }
