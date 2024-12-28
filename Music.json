@@ -1023,11 +1023,11 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Chassé-croisé.txt"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Chassé-croisé.mp3",
-            "title": "Fassé-Froisé",
-            "artist": "Fiak",
-            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
-            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Chassé-croisé.txt"
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Violet.mp3",
+            "title": "Violet",
+            "artist": "Sadek • Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Nique%20Le%20Casino%202.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Violet.txt"
         }
     ]
 }
