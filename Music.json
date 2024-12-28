@@ -1009,6 +1009,27 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Miroirs.txt"
         },
         {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Soldi famiglia.mp3",
+            "title": "Soldi famiglia",
+            "artist": "SCH • Sfera Ebbasta",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Stigmates.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Soldi famiglia.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Le taulier.mp3",
+            "title": "Le taulier",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Stigmates.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Le taulier.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dans la tête.mp3",
+            "title": "Dans la tête",
+            "artist": "SCH",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Stigmates.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Dans la tête.txt"
+        },
+        {
             "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Grabba.mp3",
             "title": "Grabba",
             "artist": "Ziak",
