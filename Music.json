@@ -1147,6 +1147,62 @@
             "artist": "Damso",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/BatterieFaible.png",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Amnésie.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Belle madame.mp3",
+            "title": "Belle madame",
+            "artist": "Ziak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Belle madame.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Capitale risque.mp3",
+            "title": "Capitale risque",
+            "artist": "Ziak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Capitale risque.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Solide.mp3",
+            "title": "Solide",
+            "artist": "Ziak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Solide.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Lieu & heure.mp3",
+            "title": "Lieu & heure",
+            "artist": "Ziak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Lieu & heure.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Rien ne se remplace.mp3",
+            "title": "Rien ne se remplace",
+            "artist": "Ziak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Rien ne se remplace.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Room.mp3",
+            "title": "Room",
+            "artist": "Ziak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Room.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/La nuit.mp3",
+            "title": "La nuit",
+            "artist": "Ziak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/La nuit.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Story.mp3",
+            "title": "Story",
+            "artist": "Ziak",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Essone_History_X.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Story.txt"
         }
     ]
 }
