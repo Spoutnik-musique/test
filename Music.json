@@ -1224,6 +1224,13 @@
             "artist": "Maes",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Mama - Maes.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Mama - Maes.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/10.03.2023.mp3",
+            "title": "10.03.2023",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/10.03.2023.txt"
         }
     ]
 }
