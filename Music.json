@@ -1294,6 +1294,48 @@
             "artist": "Damso",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Flow1.png",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Flow1.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/9 17.mp3",
+            "title": "9 17",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/9 17.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Derek.mp3",
+            "title": "Derek",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Derek.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Fort.mp3",
+            "title": "Fort",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Fort.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Tucibi.mp3",
+            "title": "Tucibi",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Tucibi.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Téléphone.mp3",
+            "title": "Téléphone",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Téléphone.txt"
+        },
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/unknown 2.mp3",
+            "title": "unknown 2",
+            "artist": "Werenoi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/unknown 2.txt"
         }
     ]
 }
