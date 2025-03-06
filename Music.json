@@ -1343,6 +1343,27 @@
             "artist": "SDM",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Lien_Du_cent.jpg",
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ragnar.txt"
+        },       
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/CETTE ANNÉE LÀ.mp3",
+            "title": "CETTE ANNÉE LÀ",
+            "artist": "SDM",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Lien_Du_cent.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/CETTE ANNÉE LÀ.txt"
+        },       
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dans le club.mp3",
+            "title": "Dans le club",
+            "artist": "SDM",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Lien_Du_cent.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Dans le club.txt"
+        },       
+        {
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/File de gauche.mp3",
+            "title": "File de gauche",
+            "artist": "SDM",
+            "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Lien_Du_cent.jpg",
+            "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/File de gauche.txt"
         }
     ]
 }
