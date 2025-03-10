@@ -1373,7 +1373,7 @@
             "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/PERFORMANTE.txt"
         },
         {
-            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/#Malentouré.mp3",
+            "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/%23Malentour%C3%A9.mp3",
             "title": "#Malentouré",
             "artist": "SDM",
             "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Ochodl.jpg",
