@@ -1392,6 +1392,13 @@
       "artist": "26",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/refs/heads/main/Cover/26.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/refs/heads/main/Parole/26.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/refs/heads/main/Musique/28.mp3",
+      "title": "28",
+      "artist": "28",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/refs/heads/main/Cover/28.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/refs/heads/main/Parole/28.txt"
     }
   ]
 }
