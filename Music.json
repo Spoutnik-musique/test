@@ -1378,6 +1378,13 @@
       "artist": "SDM",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Ochodl.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/#Malentouré.txt"
+    },
+    {
+      "musicUrl": "Musique/gyudscgyusdf.mp3",
+      "title": "qsd",
+      "artist": "sqd",
+      "thumbnailUrl": "Cover/Cover test 1.jpg",
+      "Parole": "Parole/00040000001B5000.txt"
     }
   ]
 }
