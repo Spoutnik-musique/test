@@ -1413,6 +1413,13 @@
       "artist": "test ",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover test 5.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/00040000001B5000.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/7.mp3",
+      "title": "wxcwxcv",
+      "artist": "sdxc",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover test 7.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/qsd.txt"
     }
   ]
 }
