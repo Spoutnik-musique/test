@@ -1392,6 +1392,13 @@
       "artist": "Musique 3",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover/Cover test 3.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Parole/e10bc1df-f166-4501-9b59-4bafc2ade316.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Musique/Musique3.mp3",
+      "title": "MU4",
+      "artist": "Musique 3",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover/Cover test 3.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Parole/e10bc1df-f166-4501-9b59-4bafc2ade316.txt"
     }
   ]
 }
