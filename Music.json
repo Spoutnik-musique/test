@@ -1406,6 +1406,13 @@
       "artist": "ertdsf",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover test 1.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/00040000001B5000.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/gyudscgyusdf.mp3",
+      "title": "fsdfsdf",
+      "artist": "ertdsf",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover test 1.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/00040000001B5000.txt"
     }
   ]
 }
