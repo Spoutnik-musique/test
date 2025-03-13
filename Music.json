@@ -1420,6 +1420,13 @@
       "artist": "sdxc",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover test 7.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/qsd.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/10.mp3",
+      "title": "10",
+      "artist": "10",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/10.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/qsd.txt"
     }
   ]
 }
