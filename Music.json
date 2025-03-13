@@ -1378,41 +1378,6 @@
       "artist": "SDM",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Ochodl.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/#Malentouré.txt"
-    },
-    {
-      "musicUrl": "Musique/PERFORMANTE (1).mp3",
-      "title": "Test",
-      "artist": "XERTOW",
-      "thumbnailUrl": "Cover/Cover_Kintsugi.jpg",
-      "Parole": "Parole/00040000001B5000.txt"
-    },
-    {
-      "musicUrl": "Musique/PERFORMANTE (1).mp3",
-      "title": "wxc",
-      "artist": "hjddv",
-      "thumbnailUrl": "Cover/Cover_Kintsugi.jpg",
-      "Parole": "Parole/00040000001B5000.txt"
-    },
-    {
-      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ragnar2.mp3",
-      "title": "Ragagn dois",
-      "artist": "Ragnar 2 test",
-      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover_Kintsugi.jpg",
-      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/00040000001B5000.txt"
-    },
-    {
-      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/gyudscgyusdf.mp3",
-      "title": "fsdfsdf",
-      "artist": "ertdsf",
-      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover test 1.jpg",
-      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/00040000001B5000.txt"
-    },
-    {
-      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/gyudscgyusdf.mp3",
-      "title": "fsdfsdf",
-      "artist": "ertdsf",
-      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Cover test 1.jpg",
-      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/00040000001B5000.txt"
     }
   ]
 }
