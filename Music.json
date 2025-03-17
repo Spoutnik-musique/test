@@ -1380,11 +1380,18 @@
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/#Malentouré.txt"
     },
     {
-      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/refs/heads/main/Musique/33.mp3",
-      "title": "32",
-      "artist": "32",
-      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/refs/heads/main/Cover/image_1.jpg",
-      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/refs/heads/main/Parole/parole1.txt"
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ciao.mp3",
+      "title": "Ciao",
+      "artist": "Werenoi • Nihno",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ciao.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Millionnaire.mp3",
+      "title": "Millionnaire",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Millionnaire.txt"
     }
   ]
 }
