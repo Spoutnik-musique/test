@@ -1392,6 +1392,48 @@
       "artist": "Werenoi",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Millionnaire.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Intro Rolex.mp3",
+      "title": "Intro Rolex",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Intro Rolex.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Figaro.mp3",
+      "title": "Figaro",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Figaro.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Lancien.mp3",
+      "title": "L'ancien",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Lancien.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Vroum Vroum.mp3",
+      "title": "Vroum Vroum",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Vroum Vroum.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Satan 2.mp3",
+      "title": "Satan 2",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Satan 2.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Boussole.mp3",
+      "title": "Boussole",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Boussole.txt"
     }
   ]
 }
