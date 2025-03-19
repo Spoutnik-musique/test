@@ -1434,6 +1434,76 @@
       "artist": "Werenoi",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Boussole.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Virus.mp3",
+      "title": "Virus",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Carr%C3%A9.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Virus.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Bang.mp3",
+      "title": "Bang",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Bang.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Sicile.mp3",
+      "title": "Sicile",
+      "artist": "Werenoi • Nihno",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Sicile.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ceinture H.mp3",
+      "title": "Ceinture H",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ceinture H.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/7 vie la.mp3",
+      "title": "7 vie la",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/7 vie la.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ndrangheta.mp3",
+      "title": "Ndrangheta",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ndrangheta.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Le sas.mp3",
+      "title": "Le sas",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Le sas.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Pourquoi tu regarde l'auto.mp3",
+      "title": "Pourquoi tu regarde l'auto",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pourquoi tu regarde l'auto.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ndrangheta.mp3",
+      "title": "Alicante",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ndrangheta.txt"
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ndrangheta.mp3",
+      "title": "Y'a des",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ndrangheta.txt"
     }
   ]
 }
