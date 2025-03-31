@@ -1492,18 +1492,18 @@
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Pourquoi tu regarde l'auto.txt"
     },
     {
-      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ndrangheta.mp3",
-      "title": "Alicante",
-      "artist": "Werenoi",
-      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
-      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ndrangheta.txt"
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Hier encore.mp3",
+      "title": "Hier encore",
+      "artist": "SDM",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Lien_Du_cent.jpg",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Hier encore.txt"
     },
     {
-      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Ndrangheta.mp3",
-      "title": "Y'a des",
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Les codes.mp3",
+      "title": "Les codes",
       "artist": "Werenoi",
-      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Pyramide2.png",
-      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Ndrangheta.txt"
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Telegram2.png",
+      "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Les codes.txt"
     }
   ]
 }
