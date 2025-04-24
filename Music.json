@@ -1604,13 +1604,6 @@
       "Parole": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Parole/Lhiver.txt"
     },
     {
-      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/salut2.mp3",
-      "title": "salut2",
-      "artist": "salals2",
-      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/salut2.jpg",
-      "Parole": ""
-    },
-    {
       "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Rihanna.mp3",
       "title": "Rihanna",
       "artist": "SDM",
