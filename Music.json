@@ -1616,6 +1616,13 @@
       "artist": "SDM",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Rihanna.jpg",
       "Parole": ""
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dolce%20Camara.mp3",
+      "title": "Dolce Camara",
+      "artist": "Booba • SDM",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Dolce%20Camara.jpg",
+      "Parole": ""
     }
   ]
 }
