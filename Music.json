@@ -1609,6 +1609,13 @@
       "artist": "salals2",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/salut2.jpg",
       "Parole": ""
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Rihanna.mp3",
+      "title": "Rihanna",
+      "artist": "SDM",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Rihanna.jpg",
+      "Parole": ""
     }
   ]
 }
