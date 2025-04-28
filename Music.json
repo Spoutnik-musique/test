@@ -1665,6 +1665,13 @@
       "artist": "Werenoi TEST",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/DiamantNoir.jpg",
       "Parole": ""
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Triple V.mp3",
+      "title": "Triple V 2",
+      "artist": "Werenoir Feat Ninho, Damso TEST",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/c1718627-869e-428d-b982-434ac49f06d3.png",
+      "Parole": ""
     }
   ]
 }
