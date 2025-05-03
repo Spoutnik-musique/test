@@ -63,6 +63,14 @@ function updateUI(songDetails) {
         albumCoverElement.src = thumbnailUrl;
         backgroundElement.style.backgroundImage = `url('${thumbnailUrl}')`;
         audioPlayer.src = musicUrl;
+        // Mise à jour du favicon avec la cover de l'album
+        let favicon = document.querySelector("link[rel='icon']");
+        if (!favicon) {
+            favicon = document.createElement("link");
+            favicon.rel = "icon";
+            document.head.appendChild(favicon);
+        }
+        favicon.href = thumbnailUrl;
 
         document.title = `${title} • ${artist}`; // Mise à jour du titre de la page
 
@@ -85,6 +93,15 @@ function updateUI(songDetails) {
         document.title = "Spoutnik"; // Titre par défaut
         if (window.api) window.api.setActivity();
     }
+}
+function updateFaviconWithCover(coverUrl) {
+    let favicon = document.querySelector("link[rel='icon']");
+    if (!favicon) {
+        favicon = document.createElement("link");
+        favicon.rel = "icon";
+        document.head.appendChild(favicon);
+    }
+    favicon.href = coverUrl;
 }
 
 function formatTime(seconds) {
@@ -411,6 +428,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const albumCover = document.getElementById('album-cover');
     const lyricsContainer = document.getElementById('lyrics-container');
     const lyricsClose = document.getElementById('lyrics-close');
+    updateFaviconWithCover(coverUrl);
 
     albumCover.addEventListener('click', async function () {
         const currentSong = getCurrentSong();
