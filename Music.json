@@ -1658,6 +1658,13 @@
       "artist": "Werenoi",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/DiamantNoir.jpg",
       "Parole": ""
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Dispense_Werenoi.mp3",
+      "title": "Dispense",
+      "artist": "Werenoi",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/DiamantNoir.jpg",
+      "Parole": ""
     }
   ]
 }
