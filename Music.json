@@ -1651,6 +1651,13 @@
       "artist": "Lushe",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/prologue.jpg",
       "Parole": ""
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Laboheme.mp3",
+      "title": "La Bohème",
+      "artist": "Saïf",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/laboheme.jpg",
+      "Parole": ""
     }
   ]
 }
