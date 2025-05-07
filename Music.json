@@ -1672,6 +1672,13 @@
       "artist": "Da UZI",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/MichaelJordan.jpg",
       "Parole": ""
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Medusa_.mp3",
+      "title": "Medusa",
+      "artist": "Saïf",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Medusa.jpg",
+      "Parole": ""
     }
   ]
 }
