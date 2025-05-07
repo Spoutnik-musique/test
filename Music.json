@@ -1665,6 +1665,13 @@
       "artist": "Werenoi",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/DiamantNoir.jpg",
       "Parole": ""
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Michael_Jordani.mp3",
+      "title": "Michael Jordan",
+      "artist": "Da UZI",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/MichaelJordan.jpg",
+      "Parole": ""
     }
   ]
 }
