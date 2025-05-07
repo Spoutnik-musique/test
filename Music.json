@@ -1679,6 +1679,13 @@
       "artist": "Saïf",
       "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Medusa.jpg",
       "Parole": ""
+    },
+    {
+      "musicUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Musique/Malade_.mp3",
+      "title": "Malade",
+      "artist": "Saïf",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Spoutnik-musique/test/main/Cover/Medusa.jpg",
+      "Parole": ""
     }
   ]
 }
