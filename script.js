@@ -101,8 +101,9 @@ function updateFaviconWithCover(coverUrl) {
         favicon.rel = "icon";
         document.head.appendChild(favicon);
     }
-    favicon.href = coverUrl;
+    favicon.href = coverUrl + '?v=' + new Date().getTime(); // Forcer le rafraîchissement
 }
+
 
 function formatTime(seconds) {
     if (isNaN(seconds)) return "0:00";
